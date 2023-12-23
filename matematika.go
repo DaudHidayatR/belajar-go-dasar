@@ -22,4 +22,10 @@ func main() {
 	j += 10
 	fmt.Println(j)
 
+	j++
+	fmt.Println(j)
+
+	j--
+	fmt.Println(j)
+
 }
